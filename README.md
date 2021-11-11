@@ -45,3 +45,5 @@ Demo of the projects 🎨
 - [12) Sidebar modal](https://sidebar-modal-project-react.netlify.app/) 
 
 - [13) Stripe submenus](https://stripe-submenu-react.netlify.app/)
+  
+- [14) useReducer Cart](https://usereducercart.netlify.app/)
